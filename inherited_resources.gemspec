@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = "developers@plataformatec.com.br"
   s.homepage    = "http://github.com/josevalim/inherited_resources"
   s.description = "Inherited Resources speeds up development by making your controllers inherit all restful actions so you just have to focus on what is important."
-  s.authors     = ['José Valim']
+  s.authors     = ['Jose Valim'] 
 
   s.rubyforge_project = "inherited_resources"
 
